@@ -1,0 +1,1001 @@
+﻿CustomerID;Age;Gender;Tenure;MonthlyCharges;ContractType;InternetService;TotalCharges;TechSupport;Churn
+1;49;Male;4;88.35;Month-to-Month;Fiber Optic;353.4;1;1
+2;43;Male;0;36.67;Month-to-Month;Fiber Optic;0.0;1;1
+3;51;Female;2;63.79;Month-to-Month;Fiber Optic;127.58;0;1
+4;60;Female;8;102.34;One-Year;DSL;818.72;1;1
+5;42;Male;32;69.01;Month-to-Month;None;2208.32;0;1
+6;42;Female;16;119.75;Two-Year;DSL;1916.0;1;1
+7;60;Male;14;80.32;One-Year;None;1124.48;0;1
+8;52;Female;6;58.9;One-Year;None;353.4;0;1
+9;40;Female;53;49.81;Two-Year;Fiber Optic;26.399.300.000.000.000;1;0
+10;50;Female;10;61.55;Month-to-Month;Fiber Optic;615.5;1;1
+11;40;Female;1;63.53;Month-to-Month;Fiber Optic;63.53;1;1
+12;40;Female;19;36.18;One-Year;Fiber Optic;687.42;1;0
+13;47;Male;2;63.26;Two-Year;None;126.52;0;1
+14;25;Female;8;71.78;One-Year;None;574.24;0;1
+15;27;Male;14;95.05;Month-to-Month;Fiber Optic;1330.7;1;1
+16;39;Female;41;89.11;Two-Year;Fiber Optic;36.535.099.999.999.900;1;0
+17;34;Female;13;93.79;Month-to-Month;None;1219.27;0;1
+18;48;Female;24;30.75;Two-Year;None;738.0;0;1
+19;35;Male;98;49.59;Two-Year;Fiber Optic;4.859.820.000.000.000;1;0
+20;30;Female;2;89.55;Month-to-Month;Fiber Optic;179.1;0;1
+21;59;Female;6;73.56;One-Year;DSL;441.36;0;1
+22;42;Female;10;30.48;Month-to-Month;None;304.8;0;1
+23;45;Male;10;102.4;Month-to-Month;DSL;1024.0;1;1
+24;30;Male;10;99.55;One-Year;Fiber Optic;995.5;1;1
+25;39;Male;47;79.36;One-Year;DSL;3729.92;1;0
+26;46;Male;25;35.98;Two-Year;DSL;8.994.999.999.999.990;1;0
+27;33;Female;18;98.99;One-Year;Fiber Optic;1781.82;1;0
+28;48;Male;7;82.53;Month-to-Month;None;577.71;0;1
+29;38;Female;34;100.38;Two-Year;DSL;3412.92;1;1
+30;42;Male;62;97.66;Two-Year;Fiber Optic;6054.92;1;0
+31;38;Male;34;102.27;Month-to-Month;DSL;3477.18;0;1
+32;63;Female;0;76.62;Two-Year;DSL;0.0;1;1
+33;44;Female;20;42.63;Month-to-Month;Fiber Optic;852.6;1;1
+34;34;Female;1;90.4;Two-Year;Fiber Optic;90.4;1;1
+35;53;Female;5;85.84;Month-to-Month;DSL;42.920.000.000.000.000;1;1
+36;32;Female;1;96.8;Month-to-Month;Fiber Optic;96.8;0;1
+37;47;Male;18;45.29;Month-to-Month;DSL;815.22;1;1
+38;25;Female;23;47.55;One-Year;Fiber Optic;10.936.499.999.999.900;1;0
+39;31;Female;2;110.14;Month-to-Month;None;220.28;0;1
+40;46;Female;9;97.5;Month-to-Month;None;877.5;0;1
+41;52;Male;12;111.74;One-Year;Fiber Optic;13.408.799.999.999.900;1;1
+42;46;Female;9;98.28;Two-Year;Fiber Optic;884.52;1;1
+43;43;Male;2;83.74;Month-to-Month;None;167.48;0;1
+44;41;Male;10;88.87;Month-to-Month;DSL;888.7;1;1
+45;30;Male;27;110.02;Month-to-Month;None;2970.54;0;1
+46;37;Male;1;82.09;Month-to-Month;None;82.09;0;1
+47;40;Female;1;86.92;Two-Year;DSL;86.92;1;1
+48;55;Female;8;44.08;Two-Year;DSL;352.64;0;1
+49;48;Female;56;72.65;One-Year;None;40.684.000.000.000.000;0;1
+50;27;Male;22;94.48;Month-to-Month;Fiber Optic;2078.56;1;1
+51;48;Male;22;54.38;One-Year;DSL;11.963.600.000.000.000;1;0
+52;41;Male;8;48.2;One-Year;DSL;385.6;0;1
+53;38;Female;18;58.24;Two-Year;Fiber Optic;1048.32;1;0
+54;51;Male;0;51.74;One-Year;Fiber Optic;0.0;0;1
+55;55;Female;20;49.34;One-Year;None;9.868.000.000.000.000;0;1
+56;54;Female;48;68.24;One-Year;None;32.755.199.999.999.900;0;1
+57;36;Male;18;111.71;Month-to-Month;DSL;2010.78;1;1
+58;41;Female;41;75.64;Two-Year;Fiber Optic;31.012.400.000.000.000;1;0
+59;48;Female;25;46.91;One-Year;Fiber Optic;1172.75;0;1
+60;54;Female;2;36.93;One-Year;Fiber Optic;73.86;0;1
+61;40;Female;46;92.65;Month-to-Month;DSL;4.261.900.000.000.000;1;1
+62;43;Male;1;64.45;One-Year;None;64.45;0;1
+63;33;Male;15;103.96;One-Year;None;15.593.999.999.999.900;0;1
+64;33;Female;3;89.36;Month-to-Month;Fiber Optic;268.08;1;1
+65;53;Female;0;101.66;Month-to-Month;Fiber Optic;0.0;1;1
+66;58;Male;10;54.48;One-Year;DSL;544.8;1;1
+67;44;Female;6;92.31;One-Year;Fiber Optic;553.86;1;1
+68;55;Female;13;53.77;One-Year;Fiber Optic;699.01;1;0
+69;48;Female;17;114.52;Month-to-Month;Fiber Optic;1946.84;1;1
+70;38;Male;0;87.27;One-Year;None;0.0;0;1
+71;48;Female;2;59.21;Month-to-Month;Fiber Optic;118.42;1;1
+72;60;Female;16;54.26;Month-to-Month;Fiber Optic;868.16;1;1
+73;44;Male;8;47.18;Month-to-Month;None;377.44;0;1
+74;60;Male;26;92.52;Month-to-Month;DSL;2405.52;0;1
+75;18;Female;21;49.68;Month-to-Month;Fiber Optic;1043.28;1;1
+76;53;Male;37;83.58;Month-to-Month;Fiber Optic;3092.46;1;1
+77;45;Female;23;53.82;Month-to-Month;Fiber Optic;1237.86;0;1
+78;42;Female;11;89.58;Month-to-Month;None;985.38;0;1
+79;45;Male;22;103.34;One-Year;Fiber Optic;2273.48;1;1
+80;25;Female;6;100.02;Month-to-Month;None;600.12;0;1
+81;42;Male;7;98.48;Month-to-Month;Fiber Optic;689.36;0;1
+82;48;Female;31;46.9;Two-Year;Fiber Optic;14.538.999.999.999.900;0;1
+83;59;Male;11;37.95;Month-to-Month;None;41.745.000.000.000.000;0;1
+84;39;Female;32;92.91;One-Year;DSL;2973.12;0;1
+85;36;Male;34;63.15;Month-to-Month;DSL;2147.1;1;1
+86;39;Male;38;68.91;Month-to-Month;Fiber Optic;2618.58;1;1
+87;54;Female;49;32.8;One-Year;DSL;16.071.999.999.999.900;1;0
+88;48;Male;11;53.36;One-Year;DSL;586.96;1;1
+89;39;Female;7;33.03;Two-Year;Fiber Optic;231.21;1;1
+90;50;Male;17;109.13;One-Year;Fiber Optic;1855.21;1;1
+91;45;Female;9;51.91;Two-Year;Fiber Optic;46.718.999.999.999.900;1;1
+92;54;Male;18;80.16;Month-to-Month;None;14.428.799.999.999.900;0;1
+93;37;Female;24;33.51;Month-to-Month;Fiber Optic;804.24;1;1
+94;41;Male;23;90.02;Month-to-Month;None;2070.46;0;1
+95;41;Male;9;59.07;Month-to-Month;DSL;531.63;1;1
+96;30;Male;3;110.81;One-Year;Fiber Optic;332.43;1;1
+97;47;Male;11;109.93;One-Year;None;1209.23;0;1
+98;47;Female;3;59.28;Month-to-Month;Fiber Optic;177.84;1;1
+99;45;Male;44;111.09;Two-Year;None;4887.96;0;1
+100;42;Female;8;119.65;Two-Year;Fiber Optic;957.2;1;1
+101;30;Male;3;104.29;Month-to-Month;DSL;312.87;1;1
+102;40;Male;0;106.04;Month-to-Month;Fiber Optic;0.0;1;1
+103;41;Female;20;52.41;Month-to-Month;Fiber Optic;10.481.999.999.999.900;1;1
+104;36;Female;20;81.9;Month-to-Month;None;1638.0;0;1
+105;43;Male;8;36.05;Month-to-Month;DSL;288.4;1;1
+106;49;Male;1;38.54;One-Year;None;38.54;0;1
+107;63;Male;10;119.9;Month-to-Month;None;1199.0;0;1
+108;46;Female;7;59.4;Month-to-Month;DSL;415.8;0;1
+109;47;Female;22;97.34;Two-Year;Fiber Optic;2141.48;1;0
+110;44;Male;18;102.6;One-Year;None;1846.8;0;1
+111;25;Female;9;107.22;Two-Year;None;964.98;0;1
+112;44;Female;4;119.79;Month-to-Month;Fiber Optic;479.16;1;1
+113;45;Female;88;51.73;Month-to-Month;Fiber Optic;4552.24;1;1
+114;69;Female;12;33.63;One-Year;Fiber Optic;40.356.000.000.000.000;0;1
+115;43;Male;23;67.01;Month-to-Month;Fiber Optic;1541.23;1;1
+116;48;Male;3;41.71;Month-to-Month;DSL;125.13;1;1
+117;44;Male;13;32.02;One-Year;None;41.626.000.000.000.000;0;1
+118;33;Male;0;62.44;One-Year;DSL;0.0;1;1
+119;56;Female;14;100.54;Month-to-Month;DSL;14.075.600.000.000.000;1;1
+120;52;Female;66;80.96;Month-to-Month;Fiber Optic;5343.36;1;1
+121;52;Male;9;58.15;Month-to-Month;Fiber Optic;523.35;1;1
+122;35;Male;0;88.89;Month-to-Month;Fiber Optic;0.0;0;1
+123;59;Male;0;50.88;Month-to-Month;Fiber Optic;0.0;0;1
+124;30;Female;9;31.29;Month-to-Month;Fiber Optic;281.61;1;1
+125;50;Male;3;98.79;Month-to-Month;DSL;296.37;0;1
+126;66;Female;0;86.14;Two-Year;Fiber Optic;0.0;1;1
+127;35;Male;28;98.61;One-Year;None;2761.08;0;1
+128;39;Male;12;33.5;One-Year;Fiber Optic;402.0;1;0
+129;45;Female;6;105.34;Month-to-Month;Fiber Optic;632.04;1;1
+130;39;Female;46;85.76;Month-to-Month;Fiber Optic;3944.96;1;1
+131;29;Male;2;80.71;Month-to-Month;None;161.42;0;1
+132;45;Female;62;86.22;Month-to-Month;DSL;5345.64;0;1
+133;34;Female;7;107.8;Month-to-Month;Fiber Optic;754.6;1;1
+134;49;Female;43;82.82;One-Year;None;35.612.599.999.999.900;0;1
+135;35;Male;18;82.29;One-Year;Fiber Optic;1481.22;0;1
+136;60;Female;35;119.16;One-Year;DSL;4.170.599.999.999.990;0;1
+137;37;Female;82;98.11;Month-to-Month;Fiber Optic;80.450.199.999.999.900;0;1
+138;41;Female;6;69.81;Two-Year;DSL;418.86;1;1
+139;53;Male;64;93.67;Month-to-Month;Fiber Optic;5994.88;0;1
+140;32;Male;9;65.03;Month-to-Month;None;585.27;0;1
+141;47;Male;9;50.6;Month-to-Month;DSL;45.540.000.000.000.000;1;1
+142;58;Female;8;83.72;One-Year;None;669.76;0;1
+143;28;Male;15;113.54;Two-Year;DSL;17.031.000.000.000.000;1;1
+144;46;Female;3;113.62;Month-to-Month;None;340.86;0;1
+145;47;Female;16;60.77;Two-Year;Fiber Optic;972.32;1;0
+146;52;Male;15;77.49;Two-Year;DSL;1162.35;1;0
+147;32;Female;28;49.05;Month-to-Month;DSL;13.733.999.999.999.900;0;1
+148;31;Male;35;119.61;Month-to-Month;None;4186.35;0;1
+149;50;Female;11;118.3;Month-to-Month;DSL;1301.3;1;1
+150;47;Male;7;88.46;Two-Year;DSL;6.192.199.999.999.990;1;1
+151;47;Female;6;102.4;Month-to-Month;Fiber Optic;6.144.000.000.000.000;0;1
+152;48;Female;4;94.36;One-Year;Fiber Optic;377.44;1;1
+153;38;Female;1;83.38;Month-to-Month;Fiber Optic;83.38;1;1
+154;47;Female;8;34.8;One-Year;DSL;278.4;1;1
+155;47;Female;6;70.93;Month-to-Month;DSL;42.558.000.000.000.000;0;1
+156;37;Female;67;90.73;One-Year;DSL;6078.91;0;1
+157;63;Female;16;90.98;Two-Year;DSL;1455.68;1;0
+158;49;Female;8;63.58;Two-Year;Fiber Optic;508.64;1;1
+159;33;Male;17;114.75;Two-Year;None;1950.75;0;1
+160;51;Female;2;45.06;Month-to-Month;DSL;90.12;1;1
+161;35;Female;11;75.03;One-Year;Fiber Optic;825.33;1;1
+162;52;Female;19;92.18;Month-to-Month;Fiber Optic;1751.42;1;1
+163;56;Male;13;92.74;Month-to-Month;None;1205.62;0;1
+164;36;Female;10;88.38;One-Year;None;883.8;0;1
+165;54;Male;101;54.78;Month-to-Month;None;5532.78;0;1
+166;49;Female;42;44.06;One-Year;DSL;1850.52;1;0
+167;53;Male;19;87.23;Two-Year;DSL;16.573.700.000.000.000;0;1
+168;63;Female;16;83.94;Month-to-Month;Fiber Optic;1343.04;1;1
+169;42;Female;19;46.14;One-Year;DSL;876.66;0;1
+170;37;Male;4;93.46;Month-to-Month;Fiber Optic;373.84;1;1
+171;36;Female;10;70.97;Month-to-Month;None;709.7;0;1
+172;36;Male;0;90.1;Month-to-Month;None;0.0;0;1
+173;44;Female;12;105.36;Two-Year;None;1264.32;0;1
+174;48;Female;15;45.28;Two-Year;Fiber Optic;679.2;0;1
+175;47;Female;5;31.72;Two-Year;Fiber Optic;158.6;1;1
+176;53;Female;66;100.12;Two-Year;Fiber Optic;6607.92;0;1
+177;45;Female;48;84.87;Month-to-Month;DSL;4073.76;1;1
+178;59;Male;25;92.97;Month-to-Month;None;2324.25;0;1
+179;42;Male;15;105.43;One-Year;DSL;1581.45;0;1
+180;72;Female;40;102.25;Month-to-Month;Fiber Optic;4090.0;0;1
+181;51;Female;2;116.48;Month-to-Month;Fiber Optic;232.96;1;1
+182;36;Female;31;78.23;Month-to-Month;Fiber Optic;2425.13;1;1
+183;34;Female;2;73.96;One-Year;None;147.92;0;1
+184;49;Male;31;66.17;One-Year;Fiber Optic;2051.27;1;0
+185;42;Female;6;43.83;Month-to-Month;None;262.98;0;1
+186;52;Male;41;81.53;Month-to-Month;DSL;3342.73;1;1
+187;49;Female;57;54.93;One-Year;Fiber Optic;31.310.099.999.999.900;1;0
+188;44;Male;3;112.92;One-Year;None;338.76;0;1
+189;36;Male;12;82.49;Month-to-Month;Fiber Optic;9.898.799.999.999.990;1;1
+190;29;Male;79;83.36;One-Year;None;6585.44;0;1
+191;40;Male;13;61.94;Month-to-Month;DSL;805.22;0;1
+192;53;Female;39;34.68;Month-to-Month;Fiber Optic;1352.52;1;1
+193;47;Male;17;32.86;One-Year;Fiber Optic;558.62;1;0
+194;32;Male;9;68.1;One-Year;None;612.9;0;1
+195;46;Male;6;37.61;Month-to-Month;DSL;225.66;1;1
+196;48;Male;4;84.62;One-Year;None;338.48;0;1
+197;36;Male;28;109.29;One-Year;Fiber Optic;30.601.200.000.000.000;1;1
+198;46;Male;9;109.46;One-Year;DSL;985.14;1;1
+199;45;Female;14;89.31;One-Year;Fiber Optic;12.503.400.000.000.000;0;1
+200;33;Female;13;49.01;One-Year;Fiber Optic;637.13;1;0
+201;48;Female;17;107.67;Month-to-Month;Fiber Optic;1830.39;1;1
+202;50;Male;40;109.75;Month-to-Month;None;4390.0;0;1
+203;55;Male;78;47.7;Month-to-Month;Fiber Optic;37.206.000.000.000.000;1;1
+204;55;Female;10;96.37;Month-to-Month;Fiber Optic;963.7;0;1
+205;31;Female;35;55.79;One-Year;Fiber Optic;19.526.499.999.999.900;1;0
+206;35;Male;28;102.24;One-Year;DSL;2862.72;1;1
+207;50;Male;17;119.75;Month-to-Month;DSL;2035.75;1;1
+208;50;Male;62;32.7;Month-to-Month;Fiber Optic;2027.4;1;1
+209;50;Male;4;110.76;Month-to-Month;Fiber Optic;443.04;1;1
+210;83;Male;2;86.04;Month-to-Month;DSL;172.08;0;1
+211;50;Female;38;117.6;One-Year;Fiber Optic;4468.8;0;1
+212;56;Female;11;71.85;Month-to-Month;Fiber Optic;7.903.499.999.999.990;0;1
+213;54;Female;37;106.26;One-Year;DSL;39.316.200.000.000.000;0;1
+214;51;Female;44;35.62;Two-Year;Fiber Optic;1567.28;1;0
+215;41;Female;1;60.18;Month-to-Month;DSL;60.18;1;1
+216;52;Female;42;36.03;Month-to-Month;None;1513.26;0;1
+217;37;Female;11;117.78;Month-to-Month;None;1295.58;0;1
+218;42;Male;14;103.53;One-Year;None;1449.42;0;1
+219;40;Male;19;106.73;One-Year;DSL;20.278.700.000.000.000;1;1
+220;45;Male;52;114.42;Month-to-Month;None;5949.84;0;1
+221;68;Female;0;37.66;One-Year;None;0.0;0;1
+222;26;Female;12;64.7;Two-Year;None;7.764.000.000.000.000;0;1
+223;51;Male;23;36.39;Month-to-Month;DSL;836.97;0;1
+224;28;Female;25;48.97;Month-to-Month;Fiber Optic;1224.25;1;1
+225;40;Male;23;50.64;Two-Year;None;1164.72;0;1
+226;55;Female;2;72.22;One-Year;Fiber Optic;144.44;1;1
+227;45;Male;7;54.17;Two-Year;Fiber Optic;379.19;0;1
+228;34;Male;8;39.09;One-Year;Fiber Optic;312.72;1;1
+229;37;Female;32;45.07;Two-Year;Fiber Optic;1442.24;1;0
+230;51;Male;6;43.25;Month-to-Month;DSL;259.5;0;1
+231;37;Male;4;117.58;One-Year;Fiber Optic;470.32;1;1
+232;47;Male;63;98.34;Two-Year;DSL;6195.42;0;1
+233;45;Female;0;117.1;One-Year;Fiber Optic;0.0;1;1
+234;38;Female;122;69.58;Month-to-Month;DSL;8488.76;0;1
+235;66;Male;22;55.05;Month-to-Month;Fiber Optic;1211.1;1;1
+236;51;Female;35;101.85;Month-to-Month;DSL;3564.75;0;1
+237;24;Female;6;59.36;Month-to-Month;Fiber Optic;35.615.999.999.999.900;0;1
+238;46;Male;0;56.94;Month-to-Month;None;0.0;0;1
+239;38;Male;26;50.93;One-Year;DSL;1324.18;1;0
+240;53;Male;35;41.67;One-Year;DSL;1458.45;1;0
+241;37;Male;26;53.08;Month-to-Month;DSL;1380.08;1;1
+242;43;Female;3;61.98;One-Year;None;185.94;0;1
+243;50;Male;28;90.66;Month-to-Month;Fiber Optic;2538.48;1;1
+244;53;Female;29;35.63;Month-to-Month;Fiber Optic;1033.27;1;1
+245;32;Female;21;48.95;Month-to-Month;DSL;1027.95;1;1
+246;41;Male;29;102.81;One-Year;Fiber Optic;29.814.900.000.000.000;0;1
+247;40;Female;37;43.22;Month-to-Month;None;15.991.399.999.999.900;0;1
+248;38;Male;19;60.84;Month-to-Month;None;1155.96;0;1
+249;62;Female;1;107.82;Month-to-Month;Fiber Optic;107.82;1;1
+250;49;Female;13;43.94;Two-Year;DSL;571.22;1;0
+251;32;Female;1;37.45;Month-to-Month;DSL;37.45;1;1
+252;54;Female;10;73.61;One-Year;DSL;736.1;1;1
+253;66;Male;10;57.22;One-Year;DSL;572.2;1;1
+254;55;Female;1;80.71;One-Year;DSL;80.71;1;1
+255;29;Female;8;102.34;Two-Year;DSL;818.72;1;1
+256;40;Female;2;42.34;Month-to-Month;Fiber Optic;84.68;1;1
+257;57;Female;33;82.26;Month-to-Month;None;27.145.800.000.000.000;0;1
+258;37;Female;59;75.5;Two-Year;Fiber Optic;4454.5;1;0
+259;49;Male;1;42.97;Month-to-Month;None;42.97;0;1
+260;52;Male;62;86.16;One-Year;None;5341.92;0;1
+261;35;Female;14;54.63;One-Year;DSL;764.82;1;0
+262;44;Male;7;73.91;One-Year;None;517.37;0;1
+263;12;Female;1;37.4;Two-Year;DSL;37.4;0;1
+264;34;Female;13;71.36;Two-Year;Fiber Optic;927.68;0;1
+265;42;Male;31;57.58;One-Year;Fiber Optic;1784.98;1;0
+266;32;Male;24;104.01;Month-to-Month;None;24.962.400.000.000.000;0;1
+267;61;Female;1;35.13;Two-Year;DSL;35.13;1;1
+268;30;Male;1;67.67;Month-to-Month;DSL;67.67;1;1
+269;40;Female;10;71.26;Month-to-Month;None;712.6;0;1
+270;46;Male;6;95.25;Two-Year;DSL;571.5;1;1
+271;59;Female;5;81.69;Month-to-Month;Fiber Optic;408.45;1;1
+272;30;Male;6;90.05;Month-to-Month;None;540.3;0;1
+273;56;Female;32;99.93;Month-to-Month;None;3197.76;0;1
+274;45;Male;52;107.6;Two-Year;None;5595.2;0;1
+275;35;Female;10;58.25;One-Year;None;582.5;0;1
+276;49;Male;47;78.42;One-Year;DSL;36.857.400.000.000.000;1;0
+277;46;Female;7;105.61;Month-to-Month;None;739.27;0;1
+278;38;Female;12;119.05;One-Year;Fiber Optic;1428.6;0;1
+279;45;Male;5;110.06;One-Year;Fiber Optic;550.3;1;1
+280;41;Male;20;63.43;Month-to-Month;DSL;1268.6;0;1
+281;46;Male;77;47.56;Month-to-Month;Fiber Optic;36.621.200.000.000.000;0;1
+282;51;Female;18;74.05;Month-to-Month;None;13.328.999.999.999.900;0;1
+283;60;Female;8;96.75;Two-Year;None;774.0;0;1
+284;32;Female;20;74.33;One-Year;Fiber Optic;1486.6;1;0
+285;66;Male;2;73.49;Two-Year;DSL;146.98;0;1
+286;25;Male;43;105.44;Month-to-Month;Fiber Optic;4533.92;0;1
+287;43;Female;13;62.53;One-Year;None;812.89;0;1
+288;50;Female;11;107.38;One-Year;None;11.811.799.999.999.900;0;1
+289;47;Female;17;66.61;One-Year;Fiber Optic;1132.37;1;0
+290;38;Male;19;59.54;Two-Year;DSL;1131.26;1;0
+291;42;Female;1;70.86;Month-to-Month;Fiber Optic;70.86;1;1
+292;40;Male;22;98.62;Month-to-Month;Fiber Optic;21.696.400.000.000.000;1;1
+293;39;Male;5;41.34;One-Year;None;20.670.000.000.000.000;0;1
+294;53;Female;25;47.68;One-Year;Fiber Optic;1192.0;0;1
+295;48;Female;34;115.63;One-Year;Fiber Optic;3931.42;1;1
+296;38;Female;32;45.79;Month-to-Month;Fiber Optic;1465.28;1;1
+297;53;Male;16;81.1;One-Year;DSL;1297.6;1;0
+298;48;Male;14;82.14;Month-to-Month;None;1149.96;0;1
+299;53;Female;3;74.07;Month-to-Month;Fiber Optic;22.220.999.999.999.900;0;1
+300;51;Female;29;88.03;One-Year;Fiber Optic;2552.87;1;0
+301;36;Male;6;50.68;One-Year;Fiber Optic;304.08;1;1
+302;39;Male;13;79.74;Month-to-Month;Fiber Optic;1036.62;1;1
+303;52;Male;6;63.5;Month-to-Month;Fiber Optic;381.0;0;1
+304;51;Female;2;89.55;Month-to-Month;None;179.1;0;1
+305;44;Male;19;42.71;Month-to-Month;DSL;811.49;1;1
+306;46;Male;1;81.38;One-Year;Fiber Optic;81.38;1;1
+307;57;Male;27;46.67;Two-Year;DSL;12.600.900.000.000.000;1;0
+308;39;Male;7;55.08;Month-to-Month;Fiber Optic;385.56;0;1
+309;50;Male;0;49.68;One-Year;DSL;0.0;1;1
+310;42;Female;14;46.46;Two-Year;Fiber Optic;650.44;1;0
+311;42;Male;0;104.31;Two-Year;None;0.0;0;1
+312;55;Female;6;55.71;Month-to-Month;None;334.26;0;1
+313;53;Male;24;113.44;Two-Year;Fiber Optic;2722.56;0;1
+314;53;Female;1;117.29;Month-to-Month;Fiber Optic;117.29;1;1
+315;58;Female;36;81.41;Month-to-Month;DSL;29.307.599.999.999.900;0;1
+316;45;Female;0;42.87;Month-to-Month;Fiber Optic;0.0;0;1
+317;51;Female;5;63.71;Month-to-Month;None;318.55;0;1
+318;41;Male;27;101.8;Month-to-Month;DSL;2748.6;1;1
+319;48;Male;7;63.07;Month-to-Month;Fiber Optic;441.49;1;1
+320;43;Female;2;37.83;Month-to-Month;None;75.66;0;1
+321;45;Female;8;80.11;Two-Year;None;640.88;0;1
+322;50;Female;6;106.06;Two-Year;DSL;636.36;1;1
+323;36;Female;36;101.63;Month-to-Month;Fiber Optic;3658.68;1;1
+324;65;Female;7;45.76;Two-Year;DSL;320.32;0;1
+325;34;Male;31;90.55;Two-Year;DSL;28.070.499.999.999.900;1;0
+326;32;Male;44;49.85;One-Year;None;2193.4;0;1
+327;56;Female;11;49.64;Month-to-Month;None;546.04;0;1
+328;52;Female;48;108.67;One-Year;None;5216.16;0;1
+329;51;Male;9;52.47;Two-Year;DSL;472.23;0;1
+330;51;Female;66;53.69;One-Year;None;3543.54;0;1
+331;44;Male;1;30.06;Month-to-Month;Fiber Optic;30.06;0;1
+332;36;Female;23;108.36;One-Year;Fiber Optic;2492.28;1;1
+333;45;Male;13;101.33;One-Year;Fiber Optic;1317.29;1;1
+334;38;Male;9;86.46;One-Year;DSL;778.14;1;1
+335;54;Female;20;97.52;Month-to-Month;None;19.503.999.999.999.900;0;1
+336;43;Male;24;43.68;Month-to-Month;Fiber Optic;1048.32;1;1
+337;36;Female;0;71.25;Two-Year;DSL;0.0;1;1
+338;41;Female;3;61.61;Two-Year;DSL;18.482.999.999.999.900;1;1
+339;49;Female;24;38.44;Month-to-Month;DSL;922.56;1;1
+340;39;Male;21;73.75;Two-Year;DSL;1548.75;1;0
+341;36;Male;67;112.87;Month-to-Month;Fiber Optic;7562.29;0;1
+342;47;Male;28;33.61;One-Year;None;9.410.799.999.999.990;0;1
+343;47;Female;60;56.23;One-Year;DSL;33.737.999.999.999.900;1;0
+344;39;Female;24;48.68;Two-Year;DSL;1168.32;1;0
+345;40;Female;7;51.43;Two-Year;Fiber Optic;360.01;0;1
+346;47;Female;2;111.76;Month-to-Month;None;223.52;0;1
+347;30;Female;30;72.13;Two-Year;Fiber Optic;21.638.999.999.999.900;1;0
+348;30;Female;20;71.97;Month-to-Month;Fiber Optic;1439.4;0;1
+349;37;Male;0;98.45;One-Year;Fiber Optic;0.0;1;1
+350;42;Female;8;43.9;One-Year;DSL;351.2;1;1
+351;48;Male;62;73.85;One-Year;DSL;4578.7;0;1
+352;59;Female;13;68.7;Month-to-Month;None;893.1;0;1
+353;53;Female;11;83.72;Two-Year;Fiber Optic;920.92;1;1
+354;43;Female;12;119.96;Month-to-Month;Fiber Optic;1439.52;0;1
+355;44;Male;4;99.25;Month-to-Month;None;397.0;0;1
+356;34;Male;9;65.81;One-Year;Fiber Optic;592.29;0;1
+357;44;Male;9;104.48;Month-to-Month;DSL;940.32;1;1
+358;42;Male;1;45.36;Two-Year;Fiber Optic;45.36;1;1
+359;48;Male;29;32.74;Month-to-Month;DSL;949.46;1;1
+360;36;Female;10;48.4;Month-to-Month;DSL;484.0;1;1
+361;50;Female;34;60.64;Two-Year;Fiber Optic;2061.76;1;0
+362;60;Male;37;75.95;One-Year;None;2810.15;0;1
+363;43;Male;4;85.36;Month-to-Month;None;341.44;0;1
+364;49;Male;21;111.95;One-Year;Fiber Optic;23.509.500.000.000.000;1;1
+365;51;Female;12;75.89;One-Year;DSL;9.106.800.000.000.000;1;0
+366;40;Female;42;75.11;One-Year;DSL;3154.62;1;0
+367;47;Female;4;34.52;Month-to-Month;None;138.08;0;1
+368;45;Female;22;33.14;Two-Year;Fiber Optic;729.08;0;1
+369;45;Female;18;79.6;Two-Year;Fiber Optic;1432.8;0;1
+370;37;Female;6;69.44;One-Year;None;416.64;0;1
+371;45;Male;2;105.53;Month-to-Month;None;211.06;0;1
+372;49;Female;21;44.46;Two-Year;None;933.66;0;1
+373;59;Male;26;32.25;One-Year;DSL;838.5;1;0
+374;54;Female;7;70.41;One-Year;None;492.87;0;1
+375;66;Male;20;51.37;Month-to-Month;None;10.273.999.999.999.900;0;1
+376;37;Female;10;34.47;Two-Year;DSL;344.7;0;1
+377;53;Female;24;95.21;One-Year;Fiber Optic;2285.04;1;0
+378;46;Female;4;40.04;Month-to-Month;Fiber Optic;160.16;1;1
+379;66;Female;44;84.75;Month-to-Month;None;3729.0;0;1
+380;36;Male;6;55.29;Two-Year;DSL;331.74;0;1
+381;36;Male;9;45.61;Month-to-Month;Fiber Optic;410.49;1;1
+382;39;Male;1;64.18;Two-Year;DSL;64.18;1;1
+383;23;Male;2;102.13;One-Year;None;204.26;0;1
+384;39;Female;14;65.29;One-Year;DSL;9.140.600.000.000.000;1;0
+385;37;Male;6;97.57;Month-to-Month;DSL;585.42;1;1
+386;46;Female;36;41.29;Month-to-Month;Fiber Optic;1486.44;1;1
+387;48;Female;0;99.55;Two-Year;None;0.0;0;1
+388;63;Female;9;51.32;Month-to-Month;DSL;461.88;1;1
+389;54;Male;8;90.97;One-Year;DSL;727.76;1;1
+390;39;Female;0;80.92;Month-to-Month;None;0.0;0;1
+391;36;Female;2;113.62;Month-to-Month;Fiber Optic;227.24;1;1
+392;49;Female;10;64.86;Month-to-Month;None;648.6;0;1
+393;31;Female;13;35.95;One-Year;DSL;467.35;1;0
+394;63;Female;10;31.72;Two-Year;Fiber Optic;317.2;1;1
+395;56;Male;15;104.42;Month-to-Month;DSL;1566.3;0;1
+396;40;Female;18;77.23;Month-to-Month;DSL;1390.14;1;1
+397;27;Male;0;99.77;Month-to-Month;Fiber Optic;0.0;1;1
+398;58;Male;12;51.1;One-Year;Fiber Optic;613.2;0;1
+399;43;Male;66;61.06;Month-to-Month;None;4029.96;0;1
+400;57;Male;14;32.71;Two-Year;Fiber Optic;457.94;0;1
+401;29;Male;22;116.53;One-Year;Fiber Optic;2563.66;1;1
+402;39;Male;7;90.11;One-Year;Fiber Optic;630.77;1;1
+403;45;Female;29;113.99;Month-to-Month;None;3305.71;0;1
+404;45;Female;29;53.89;Two-Year;DSL;1562.81;1;0
+405;40;Female;14;85.03;Month-to-Month;DSL;1190.42;1;1
+406;51;Male;74;91.06;Month-to-Month;Fiber Optic;67.384.400.000.000.000;0;1
+407;34;Male;2;58.58;One-Year;Fiber Optic;117.16;1;1
+408;43;Female;0;106.33;One-Year;DSL;0.0;1;1
+409;46;Male;29;115.24;Month-to-Month;None;3341.96;0;1
+410;50;Male;32;109.64;Month-to-Month;DSL;3508.48;0;1
+411;52;Female;2;96.52;One-Year;None;193.04;0;1
+412;33;Male;6;54.97;Month-to-Month;DSL;329.82;1;1
+413;29;Female;0;55.35;Two-Year;Fiber Optic;0.0;1;1
+414;57;Female;6;116.7;One-Year;None;700.2;0;1
+415;48;Male;29;30.93;Month-to-Month;DSL;896.97;1;1
+416;37;Male;14;94.44;Month-to-Month;None;13.221.599.999.999.900;0;1
+417;60;Female;8;93.56;Month-to-Month;Fiber Optic;748.48;0;1
+418;46;Male;9;86.04;One-Year;None;774.36;0;1
+419;56;Male;0;119.11;One-Year;Fiber Optic;0.0;0;1
+420;45;Female;7;58.07;Month-to-Month;Fiber Optic;406.49;1;1
+421;65;Male;20;60.6;One-Year;DSL;1212.0;1;0
+422;62;Female;73;37.1;Two-Year;Fiber Optic;2708.3;1;0
+423;42;Female;37;69.85;Month-to-Month;DSL;2584.45;1;1
+424;54;Male;0;53.49;Two-Year;DSL;0.0;1;1
+425;51;Male;45;60.9;Month-to-Month;DSL;2740.5;0;1
+426;58;Male;30;105.11;Month-to-Month;Fiber Optic;3153.3;1;1
+427;35;Male;30;114.19;Month-to-Month;None;3425.7;0;1
+428;51;Male;12;46.72;Month-to-Month;DSL;560.64;1;1
+429;55;Female;10;63.53;Month-to-Month;DSL;635.3;1;1
+430;27;Male;7;113.58;Month-to-Month;Fiber Optic;795.06;1;1
+431;33;Female;1;35.56;Two-Year;DSL;35.56;1;1
+432;24;Female;5;38.31;Two-Year;DSL;191.55;1;1
+433;42;Female;5;44.65;One-Year;DSL;223.25;0;1
+434;52;Female;13;83.57;Month-to-Month;None;10.864.099.999.999.900;0;1
+435;60;Male;27;43.54;Month-to-Month;None;1175.58;0;1
+436;45;Female;12;117.13;Month-to-Month;Fiber Optic;1405.56;1;1
+437;61;Female;1;70.2;One-Year;Fiber Optic;70.2;0;1
+438;31;Male;63;75.14;Two-Year;Fiber Optic;4733.82;1;0
+439;27;Male;57;52.2;Month-to-Month;Fiber Optic;2975.4;1;1
+440;44;Female;30;72.39;Month-to-Month;Fiber Optic;2171.7;1;1
+441;48;Male;94;89.57;One-Year;Fiber Optic;8419.58;0;1
+442;44;Male;15;97.61;Month-to-Month;DSL;1464.15;1;1
+443;24;Male;65;97.85;Month-to-Month;DSL;6360.25;1;1
+444;44;Male;1;82.01;One-Year;Fiber Optic;82.01;0;1
+445;31;Female;9;111.39;One-Year;None;1002.51;0;1
+446;51;Female;5;103.57;Month-to-Month;Fiber Optic;5.178.499.999.999.990;1;1
+447;48;Female;4;98.13;Month-to-Month;None;392.52;0;1
+448;35;Male;3;35.0;Two-Year;None;105.0;0;1
+449;39;Male;19;30.62;Month-to-Month;DSL;581.78;1;1
+450;34;Female;30;49.12;Month-to-Month;Fiber Optic;1473.6;0;1
+451;44;Male;17;89.72;Month-to-Month;Fiber Optic;1525.24;1;1
+452;54;Male;3;67.01;Month-to-Month;None;20.103.000.000.000.000;0;1
+453;35;Female;33;66.22;Month-to-Month;None;21.852.599.999.999.900;0;1
+454;50;Male;20;109.61;Two-Year;Fiber Optic;2192.2;1;1
+455;39;Female;9;110.6;Month-to-Month;DSL;995.4;1;1
+456;37;Male;22;111.83;Month-to-Month;None;24.602.599.999.999.900;0;1
+457;43;Male;6;58.25;One-Year;DSL;349.5;1;1
+458;34;Male;8;92.2;One-Year;None;737.6;0;1
+459;39;Female;49;54.45;Two-Year;None;2668.05;0;1
+460;33;Female;6;47.15;Two-Year;Fiber Optic;282.9;1;1
+461;64;Female;12;46.62;Month-to-Month;Fiber Optic;5.594.399.999.999.990;0;1
+462;45;Female;44;60.79;One-Year;Fiber Optic;26.747.599.999.999.900;1;0
+463;38;Male;24;68.7;Month-to-Month;Fiber Optic;16.488.000.000.000.000;0;1
+464;47;Female;1;104.79;Two-Year;Fiber Optic;104.79;1;1
+465;43;Male;3;40.79;Month-to-Month;None;122.37;0;1
+466;42;Female;0;96.14;Two-Year;None;0.0;0;1
+467;51;Male;19;77.83;One-Year;None;1478.77;0;1
+468;52;Female;11;55.92;Month-to-Month;DSL;615.12;1;1
+469;39;Male;2;74.35;One-Year;None;148.7;0;1
+470;39;Male;63;56.99;Two-Year;None;35.903.700.000.000.000;0;1
+471;42;Female;15;83.65;Two-Year;DSL;1254.75;0;1
+472;21;Male;5;69.05;Month-to-Month;DSL;345.25;1;1
+473;29;Male;13;44.8;One-Year;DSL;582.4;0;1
+474;58;Male;22;40.49;Month-to-Month;None;8.907.800.000.000.000;0;1
+475;61;Male;1;79.2;Month-to-Month;Fiber Optic;79.2;1;1
+476;42;Female;6;111.22;Month-to-Month;None;6.673.199.999.999.990;0;1
+477;50;Female;32;60.96;Month-to-Month;DSL;1950.72;1;1
+478;48;Female;12;95.97;Two-Year;None;11.516.399.999.999.900;0;1
+479;75;Female;15;89.28;Month-to-Month;DSL;1339.2;1;1
+480;56;Male;11;113.84;Two-Year;Fiber Optic;1252.24;1;1
+481;43;Female;0;103.89;Month-to-Month;Fiber Optic;0.0;0;1
+482;35;Male;3;80.99;Month-to-Month;DSL;24.296.999.999.999.900;1;1
+483;28;Male;11;89.13;Month-to-Month;None;980.43;0;1
+484;47;Female;4;110.85;Month-to-Month;DSL;443.4;1;1
+485;37;Male;1;65.96;Month-to-Month;Fiber Optic;65.96;1;1
+486;30;Female;37;59.41;Month-to-Month;Fiber Optic;2198.17;1;1
+487;38;Male;79;30.97;One-Year;Fiber Optic;2446.63;1;0
+488;34;Female;31;104.39;Month-to-Month;DSL;3236.09;1;1
+489;61;Female;38;102.09;Month-to-Month;DSL;3879.42;0;1
+490;53;Female;5;39.4;Month-to-Month;None;197.0;0;1
+491;44;Female;64;81.92;Two-Year;DSL;5242.88;0;1
+492;59;Female;4;71.76;Two-Year;None;287.04;0;1
+493;45;Male;60;40.68;Month-to-Month;None;2440.8;0;1
+494;36;Female;105;118.25;Month-to-Month;DSL;12416.25;1;1
+495;60;Male;24;49.32;Month-to-Month;DSL;1183.68;0;1
+496;50;Female;79;36.05;Two-Year;Fiber Optic;2847.95;1;0
+497;34;Female;16;83.54;Month-to-Month;None;1336.64;0;1
+498;43;Female;6;96.5;Month-to-Month;None;579.0;0;1
+499;36;Male;11;32.92;Month-to-Month;Fiber Optic;362.12;1;1
+500;31;Male;18;89.28;Month-to-Month;None;1607.04;0;1
+501;54;Female;1;77.91;Month-to-Month;DSL;77.91;0;1
+502;64;Male;19;39.29;One-Year;None;746.51;0;1
+503;31;Male;79;45.53;Month-to-Month;None;3596.87;0;1
+504;50;Male;4;81.12;One-Year;DSL;324.48;1;1
+505;38;Female;31;56.67;Month-to-Month;DSL;1756.77;1;1
+506;40;Female;47;114.45;Month-to-Month;DSL;5.379.150.000.000.000;1;1
+507;39;Male;57;103.69;Two-Year;DSL;5910.33;1;1
+508;36;Male;64;118.52;Month-to-Month;None;7585.28;0;1
+509;45;Male;14;53.37;Two-Year;Fiber Optic;747.18;1;0
+510;36;Female;75;117.28;One-Year;DSL;8796.0;0;1
+511;47;Female;28;68.81;Month-to-Month;Fiber Optic;1926.68;0;1
+512;44;Male;3;61.28;Two-Year;None;183.84;0;1
+513;42;Male;12;34.53;Month-to-Month;Fiber Optic;414.36;1;1
+514;35;Male;25;34.75;Two-Year;Fiber Optic;868.75;1;0
+515;39;Female;5;92.28;Month-to-Month;DSL;461.4;0;1
+516;52;Female;20;71.21;Two-Year;None;14.241.999.999.999.900;0;1
+517;50;Male;21;50.39;Month-to-Month;None;1058.19;0;1
+518;35;Male;3;85.26;One-Year;DSL;25.578.000.000.000.000;0;1
+519;45;Male;16;52.76;One-Year;DSL;844.16;1;0
+520;52;Female;29;81.99;Two-Year;DSL;2377.71;1;0
+521;28;Male;13;62.33;Two-Year;DSL;810.29;1;0
+522;50;Female;0;104.12;Two-Year;Fiber Optic;0.0;0;1
+523;38;Female;0;103.86;Two-Year;None;0.0;0;1
+524;50;Male;8;72.96;Month-to-Month;Fiber Optic;583.68;0;1
+525;37;Male;52;61.57;Month-to-Month;None;3201.64;0;1
+526;26;Male;5;62.63;Month-to-Month;Fiber Optic;31.315.000.000.000.000;1;1
+527;28;Female;20;102.51;Month-to-Month;None;20.502.000.000.000.000;0;1
+528;45;Female;5;59.54;Month-to-Month;None;297.7;0;1
+529;47;Female;7;48.82;One-Year;DSL;341.74;1;1
+530;35;Female;37;37.62;Month-to-Month;Fiber Optic;13.919.399.999.999.900;0;1
+531;51;Male;26;72.0;One-Year;Fiber Optic;1872.0;1;0
+532;28;Female;2;73.39;Month-to-Month;DSL;146.78;1;1
+533;44;Female;11;105.68;Month-to-Month;Fiber Optic;1162.48;1;1
+534;32;Male;0;49.91;One-Year;Fiber Optic;0.0;1;1
+535;38;Female;13;64.29;One-Year;None;8.357.700.000.000.000;0;1
+536;45;Female;21;102.76;One-Year;Fiber Optic;2157.96;1;1
+537;36;Female;2;104.13;One-Year;None;208.26;0;1
+538;41;Female;6;64.61;Month-to-Month;Fiber Optic;38.765.999.999.999.900;0;1
+539;55;Female;10;71.32;One-Year;None;7.131.999.999.999.990;0;1
+540;39;Female;50;57.3;Month-to-Month;Fiber Optic;2865.0;1;1
+541;53;Male;99;113.93;Month-to-Month;None;11.279.070.000.000.000;0;1
+542;33;Male;0;40.68;Month-to-Month;Fiber Optic;0.0;1;1
+543;50;Female;28;114.04;Month-to-Month;Fiber Optic;31.931.200.000.000.000;1;1
+544;59;Male;9;91.55;Month-to-Month;Fiber Optic;8.239.499.999.999.990;0;1
+545;20;Male;9;77.84;Two-Year;Fiber Optic;7.005.600.000.000.000;0;1
+546;37;Male;28;32.94;Two-Year;DSL;9.223.199.999.999.990;1;0
+547;50;Male;50;72.8;Month-to-Month;DSL;3640.0;1;1
+548;42;Female;60;66.7;Month-to-Month;DSL;4002.0;1;1
+549;48;Female;17;44.51;Month-to-Month;None;756.67;0;1
+550;38;Male;8;89.08;Month-to-Month;DSL;712.64;1;1
+551;45;Male;30;117.4;Two-Year;DSL;3522.0;1;1
+552;43;Male;5;80.6;Month-to-Month;None;403.0;0;1
+553;56;Female;16;94.33;One-Year;Fiber Optic;1509.28;1;0
+554;47;Female;8;36.16;Month-to-Month;Fiber Optic;289.28;1;1
+555;48;Male;21;67.59;Two-Year;DSL;1419.39;1;0
+556;40;Female;5;40.47;Month-to-Month;None;202.35;0;1
+557;40;Female;4;85.15;One-Year;None;340.6;0;1
+558;40;Female;50;114.46;Month-to-Month;None;5723.0;0;1
+559;48;Female;2;89.56;One-Year;Fiber Optic;179.12;1;1
+560;40;Male;14;36.91;Month-to-Month;None;516.74;0;1
+561;47;Female;4;61.92;Month-to-Month;DSL;247.68;1;1
+562;65;Male;0;79.56;Two-Year;DSL;0.0;1;1
+563;53;Female;0;66.29;Two-Year;DSL;0.0;0;1
+564;41;Female;3;105.03;Two-Year;Fiber Optic;31.509.000.000.000.000;1;1
+565;57;Female;40;103.32;One-Year;Fiber Optic;4.132.799.999.999.990;1;1
+566;40;Female;6;85.06;Two-Year;Fiber Optic;510.36;0;1
+567;24;Male;60;63.61;Month-to-Month;DSL;3816.6;0;1
+568;34;Female;17;52.98;Month-to-Month;Fiber Optic;900.66;1;1
+569;26;Female;11;39.53;Month-to-Month;None;43.483.000.000.000.000;0;1
+570;41;Female;17;61.94;One-Year;Fiber Optic;1052.98;1;0
+571;45;Male;14;67.19;Month-to-Month;None;940.66;0;1
+572;61;Male;28;90.82;Month-to-Month;DSL;2542.96;1;1
+573;48;Male;6;89.23;One-Year;None;535.38;0;1
+574;42;Female;8;36.31;Two-Year;Fiber Optic;290.48;0;1
+575;53;Female;44;65.57;Month-to-Month;DSL;2885.08;1;1
+576;22;Male;58;46.36;Month-to-Month;DSL;2688.88;1;1
+577;47;Female;44;44.11;Month-to-Month;Fiber Optic;1940.84;1;1
+578;52;Female;10;104.46;Month-to-Month;None;1044.6;0;1
+579;30;Female;30;33.77;Month-to-Month;Fiber Optic;10.131.000.000.000.000;0;1
+580;56;Female;12;67.73;One-Year;DSL;812.76;1;0
+581;48;Female;13;45.14;One-Year;None;586.82;0;1
+582;40;Female;4;109.14;One-Year;Fiber Optic;436.56;1;1
+583;51;Male;17;80.13;Month-to-Month;Fiber Optic;1362.21;0;1
+584;67;Female;4;50.82;Two-Year;Fiber Optic;203.28;1;1
+585;46;Female;8;75.22;Month-to-Month;DSL;601.76;0;1
+586;47;Female;38;95.83;Month-to-Month;Fiber Optic;3641.54;1;1
+587;40;Female;4;116.23;Two-Year;Fiber Optic;464.92;1;1
+588;36;Female;1;49.84;Month-to-Month;None;49.84;0;1
+589;53;Male;1;109.76;Month-to-Month;Fiber Optic;109.76;0;1
+590;36;Male;56;114.09;Two-Year;Fiber Optic;6389.04;0;1
+591;45;Male;14;112.48;Month-to-Month;Fiber Optic;1574.72;1;1
+592;40;Male;10;87.19;One-Year;None;871.9;0;1
+593;49;Female;33;86.68;Month-to-Month;None;2860.44;0;1
+594;48;Female;36;66.29;One-Year;Fiber Optic;2386.44;1;0
+595;55;Male;8;97.72;Month-to-Month;None;781.76;0;1
+596;39;Male;23;77.82;Month-to-Month;Fiber Optic;1789.86;0;1
+597;42;Female;29;90.97;One-Year;Fiber Optic;2638.13;0;1
+598;35;Male;21;68.56;Month-to-Month;DSL;1439.76;1;1
+599;40;Female;3;95.83;Month-to-Month;Fiber Optic;287.49;1;1
+600;48;Female;41;104.2;Month-to-Month;DSL;4272.2;0;1
+601;52;Female;15;43.18;Month-to-Month;None;647.7;0;1
+602;35;Male;6;104.96;Month-to-Month;Fiber Optic;629.76;1;1
+603;53;Male;11;78.63;Month-to-Month;None;864.93;0;1
+604;58;Female;0;106.02;Two-Year;Fiber Optic;0.0;1;1
+605;49;Female;2;68.82;Month-to-Month;Fiber Optic;137.64;1;1
+606;63;Male;29;64.11;Month-to-Month;Fiber Optic;1859.19;1;1
+607;37;Female;0;112.36;Month-to-Month;DSL;0.0;1;1
+608;32;Male;10;52.61;Month-to-Month;Fiber Optic;526.1;1;1
+609;27;Female;14;105.98;Two-Year;DSL;1483.72;1;1
+610;59;Male;1;73.56;Month-to-Month;Fiber Optic;73.56;1;1
+611;51;Female;72;76.27;Two-Year;Fiber Optic;5491.44;1;0
+612;44;Male;5;57.76;Month-to-Month;None;288.8;0;1
+613;47;Male;7;81.57;One-Year;DSL;570.99;0;1
+614;33;Male;7;59.27;One-Year;DSL;41.489.000.000.000.000;1;1
+615;69;Male;5;33.53;Two-Year;Fiber Optic;167.65;1;1
+616;46;Female;0;54.48;One-Year;None;0.0;0;1
+617;46;Female;26;30.57;One-Year;None;794.82;0;1
+618;52;Male;68;118.05;Month-to-Month;Fiber Optic;8027.4;1;1
+619;49;Male;5;116.92;Month-to-Month;Fiber Optic;584.6;1;1
+620;47;Female;21;65.56;Two-Year;DSL;1376.76;1;0
+621;37;Female;27;95.55;Month-to-Month;None;2579.85;0;1
+622;49;Female;37;61.12;Month-to-Month;Fiber Optic;2261.44;0;1
+623;63;Male;10;90.4;One-Year;DSL;904.0;1;1
+624;58;Male;7;102.49;Month-to-Month;Fiber Optic;717.43;1;1
+625;60;Female;7;115.21;Two-Year;DSL;8.064.699.999.999.990;0;1
+626;39;Male;24;66.02;One-Year;None;1584.48;0;1
+627;35;Female;33;100.5;One-Year;DSL;3316.5;1;1
+628;43;Male;4;53.93;Two-Year;Fiber Optic;215.72;1;1
+629;45;Female;9;119.13;Month-to-Month;DSL;1072.17;1;1
+630;55;Male;46;32.32;Month-to-Month;None;1486.72;0;1
+631;28;Female;32;84.32;Month-to-Month;None;2698.24;0;1
+632;60;Female;83;89.36;Month-to-Month;Fiber Optic;7416.88;1;1
+633;43;Female;28;91.92;One-Year;Fiber Optic;2573.76;1;0
+634;40;Male;9;40.83;Two-Year;None;36.746.999.999.999.900;0;1
+635;34;Female;17;114.47;Month-to-Month;DSL;1945.99;1;1
+636;28;Female;21;46.31;Month-to-Month;Fiber Optic;972.51;1;1
+637;53;Female;1;86.05;Two-Year;DSL;86.05;1;1
+638;45;Female;15;50.04;Month-to-Month;None;750.6;0;1
+639;32;Female;24;57.65;Month-to-Month;Fiber Optic;1383.6;0;1
+640;32;Female;3;79.18;Month-to-Month;None;23.754.000.000.000.000;0;1
+641;41;Male;30;67.55;Two-Year;Fiber Optic;2026.5;1;0
+642;61;Female;17;44.42;One-Year;DSL;755.14;0;1
+643;42;Female;60;45.38;One-Year;DSL;2722.8;1;0
+644;29;Male;0;67.63;Two-Year;DSL;0.0;1;1
+645;42;Male;6;98.16;Month-to-Month;Fiber Optic;588.96;0;1
+646;42;Male;18;110.82;Month-to-Month;DSL;19.947.599.999.999.900;0;1
+647;18;Female;7;37.57;Two-Year;DSL;262.99;1;1
+648;44;Female;25;65.38;Month-to-Month;None;1634.5;0;1
+649;42;Female;28;39.02;One-Year;None;10.925.600.000.000.000;0;1
+650;51;Female;2;31.49;Two-Year;Fiber Optic;62.98;0;1
+651;63;Male;14;89.55;One-Year;Fiber Optic;1253.7;1;0
+652;56;Male;14;84.22;One-Year;DSL;1179.08;1;0
+653;42;Male;9;44.67;Two-Year;Fiber Optic;40.203.000.000.000.000;0;1
+654;33;Male;54;51.04;Two-Year;None;2756.16;0;1
+655;70;Male;35;32.13;Month-to-Month;DSL;11.245.500.000.000.000;0;1
+656;45;Male;23;105.15;Month-to-Month;DSL;24.184.500.000.000.000;1;1
+657;45;Female;25;117.72;Month-to-Month;None;2943.0;0;1
+658;44;Female;12;42.19;One-Year;Fiber Optic;506.28;1;0
+659;46;Female;50;50.83;Month-to-Month;DSL;2541.5;0;1
+660;43;Female;23;108.16;One-Year;Fiber Optic;2487.68;1;1
+661;39;Female;26;113.38;Month-to-Month;Fiber Optic;2947.88;1;1
+662;39;Male;39;67.77;One-Year;Fiber Optic;26.430.299.999.999.900;1;0
+663;44;Female;6;34.56;Month-to-Month;None;207.36;0;1
+664;39;Female;32;33.55;One-Year;None;1073.6;0;1
+665;37;Male;4;81.66;One-Year;Fiber Optic;326.64;1;1
+666;46;Male;8;65.36;Month-to-Month;None;522.88;0;1
+667;42;Female;8;32.58;Month-to-Month;Fiber Optic;260.64;0;1
+668;60;Male;76;82.49;One-Year;None;6269.24;0;1
+669;18;Female;38;31.02;Month-to-Month;Fiber Optic;1178.76;1;1
+670;55;Female;24;100.86;Month-to-Month;None;2420.64;0;1
+671;57;Male;25;57.58;Two-Year;None;1439.5;0;1
+672;24;Male;16;33.62;One-Year;DSL;537.92;1;0
+673;41;Male;58;82.95;Two-Year;None;4811.1;0;1
+674;41;Male;13;65.79;Month-to-Month;None;8.552.700.000.000.000;0;1
+675;30;Male;9;117.64;Month-to-Month;None;1058.76;0;1
+676;37;Female;3;78.98;Two-Year;DSL;236.94;1;1
+677;33;Male;30;54.77;One-Year;None;16.431.000.000.000.000;0;1
+678;62;Female;26;93.85;One-Year;None;2440.1;0;1
+679;54;Male;9;54.43;Month-to-Month;DSL;489.87;1;1
+680;57;Female;0;111.38;Month-to-Month;None;0.0;0;1
+681;52;Male;36;63.72;Month-to-Month;DSL;2293.92;0;1
+682;33;Male;0;79.49;Month-to-Month;DSL;0.0;0;1
+683;39;Female;24;34.55;Month-to-Month;Fiber Optic;8.291.999.999.999.990;0;1
+684;49;Female;70;68.35;Month-to-Month;Fiber Optic;4784.5;1;1
+685;32;Male;11;104.91;Two-Year;Fiber Optic;1154.01;1;1
+686;52;Female;5;102.51;Month-to-Month;DSL;5.125.500.000.000.000;1;1
+687;42;Male;24;50.19;One-Year;None;1204.56;0;1
+688;41;Female;33;50.35;Two-Year;DSL;1661.55;0;1
+689;52;Male;15;103.56;One-Year;DSL;1553.4;0;1
+690;49;Male;68;113.74;Month-to-Month;DSL;7734.32;1;1
+691;41;Female;1;38.58;One-Year;Fiber Optic;38.58;1;1
+692;56;Female;14;70.51;One-Year;None;9.871.400.000.000.000;0;1
+693;34;Male;25;60.37;One-Year;Fiber Optic;1509.25;1;0
+694;51;Female;39;108.36;One-Year;None;4226.04;0;1
+695;50;Female;3;37.52;Two-Year;DSL;112.56;0;1
+696;41;Male;32;49.0;One-Year;Fiber Optic;1568.0;1;0
+697;48;Female;16;97.72;Month-to-Month;Fiber Optic;1563.52;1;1
+698;32;Male;10;34.62;One-Year;Fiber Optic;346.2;1;1
+699;54;Female;2;74.33;Month-to-Month;DSL;148.66;0;1
+700;43;Female;40;69.79;Two-Year;Fiber Optic;27.916.000.000.000.000;1;0
+701;39;Female;3;60.1;Month-to-Month;Fiber Optic;180.3;1;1
+702;55;Male;7;65.51;Month-to-Month;None;45.857.000.000.000.000;0;1
+703;37;Male;6;77.69;Two-Year;Fiber Optic;466.14;1;1
+704;30;Male;41;44.52;One-Year;DSL;18.253.200.000.000.000;1;0
+705;29;Male;22;81.48;Month-to-Month;Fiber Optic;17.925.600.000.000.000;1;1
+706;51;Male;31;102.49;Month-to-Month;DSL;3177.19;1;1
+707;32;Female;5;98.41;Two-Year;None;49.204.999.999.999.900;0;1
+708;62;Male;19;43.85;Month-to-Month;Fiber Optic;833.15;0;1
+709;24;Male;16;43.43;Two-Year;DSL;694.88;1;0
+710;61;Female;35;54.14;Month-to-Month;None;1894.9;0;1
+711;47;Male;47;62.5;One-Year;Fiber Optic;2937.5;1;0
+712;44;Female;0;66.76;Two-Year;DSL;0.0;1;1
+713;39;Male;22;91.17;Month-to-Month;Fiber Optic;2005.74;1;1
+714;48;Female;1;35.1;Month-to-Month;DSL;35.1;1;1
+715;44;Male;15;33.12;Month-to-Month;None;49.679.999.999.999.900;0;1
+716;56;Male;6;65.27;One-Year;None;391.62;0;1
+717;46;Female;7;92.74;One-Year;None;649.18;0;1
+718;46;Male;8;47.41;One-Year;Fiber Optic;379.28;1;1
+719;41;Female;19;87.74;Month-to-Month;Fiber Optic;1667.06;1;1
+720;44;Male;8;53.38;Month-to-Month;None;427.04;0;1
+721;48;Male;26;109.75;Month-to-Month;DSL;2853.5;1;1
+722;27;Female;10;110.61;Month-to-Month;Fiber Optic;1106.1;1;1
+723;31;Male;1;56.76;One-Year;Fiber Optic;56.76;1;1
+724;52;Female;30;50.7;Two-Year;DSL;1521.0;0;1
+725;46;Female;6;67.02;One-Year;Fiber Optic;402.12;1;1
+726;43;Female;11;51.65;Month-to-Month;None;568.15;0;1
+727;45;Female;23;90.51;Two-Year;None;2081.73;0;1
+728;48;Male;8;104.35;One-Year;DSL;834.8;0;1
+729;39;Male;1;90.58;Two-Year;DSL;90.58;1;1
+730;37;Male;9;104.19;One-Year;DSL;937.71;1;1
+731;46;Female;57;65.73;Month-to-Month;None;3746.61;0;1
+732;35;Female;20;44.07;Month-to-Month;DSL;881.4;0;1
+733;49;Male;22;96.42;One-Year;None;21.212.400.000.000.000;0;1
+734;27;Female;20;62.44;Month-to-Month;DSL;1248.8;1;1
+735;55;Male;4;90.41;Month-to-Month;Fiber Optic;361.64;1;1
+736;49;Female;10;54.36;One-Year;Fiber Optic;543.6;1;1
+737;47;Male;27;37.31;One-Year;None;10.073.700.000.000.000;0;1
+738;54;Female;2;119.33;One-Year;DSL;238.66;1;1
+739;61;Female;6;44.06;Month-to-Month;Fiber Optic;264.36;1;1
+740;55;Male;6;118.96;Month-to-Month;DSL;713.76;0;1
+741;26;Male;11;117.96;One-Year;None;1297.56;0;1
+742;32;Male;78;101.44;Two-Year;None;7912.32;0;1
+743;38;Male;1;89.35;One-Year;DSL;89.35;1;1
+744;45;Male;14;82.0;Two-Year;None;1148.0;0;1
+745;50;Female;3;107.95;One-Year;Fiber Optic;323.85;0;1
+746;37;Female;70;56.05;One-Year;DSL;3923.5;1;0
+747;46;Female;2;72.09;Month-to-Month;Fiber Optic;144.18;1;1
+748;37;Male;10;85.75;One-Year;DSL;857.5;1;1
+749;38;Female;26;67.01;One-Year;None;17.422.600.000.000.000;0;1
+750;30;Female;24;68.47;One-Year;None;1643.28;0;1
+751;35;Male;10;59.73;Month-to-Month;DSL;597.3;0;1
+752;31;Female;8;80.78;One-Year;Fiber Optic;646.24;1;1
+753;35;Female;10;106.55;Month-to-Month;None;1065.5;0;1
+754;55;Male;6;48.14;One-Year;None;28.884.000.000.000.000;0;1
+755;35;Male;4;114.1;Month-to-Month;Fiber Optic;456.4;0;1
+756;71;Female;13;92.02;Two-Year;None;1196.26;0;1
+757;49;Male;6;104.09;Month-to-Month;Fiber Optic;624.54;0;1
+758;46;Female;6;80.06;Month-to-Month;Fiber Optic;480.36;1;1
+759;36;Female;21;100.16;Month-to-Month;None;2103.36;0;1
+760;52;Female;69;31.46;One-Year;Fiber Optic;21.707.400.000.000.000;1;0
+761;39;Male;18;103.65;Month-to-Month;Fiber Optic;1865.7;0;1
+762;46;Male;1;33.61;Month-to-Month;Fiber Optic;33.61;1;1
+763;70;Female;1;110.09;One-Year;None;110.09;0;1
+764;44;Female;60;119.28;Month-to-Month;None;7156.8;0;1
+765;56;Male;7;56.47;Two-Year;Fiber Optic;39.528.999.999.999.900;0;1
+766;37;Female;1;48.93;Two-Year;Fiber Optic;48.93;1;1
+767;44;Female;18;98.88;One-Year;Fiber Optic;1779.84;1;0
+768;62;Male;19;52.77;Month-to-Month;Fiber Optic;10.026.300.000.000.000;0;1
+769;38;Male;20;107.9;One-Year;DSL;2158.0;1;1
+770;63;Female;6;39.26;Month-to-Month;None;235.56;0;1
+771;52;Male;0;41.34;Month-to-Month;Fiber Optic;0.0;1;1
+772;39;Male;67;118.12;Month-to-Month;Fiber Optic;7914.04;1;1
+773;51;Male;5;90.65;Two-Year;DSL;453.25;1;1
+774;54;Male;22;106.22;Month-to-Month;DSL;2336.84;1;1
+775;51;Female;24;59.19;One-Year;None;1420.56;0;1
+776;29;Female;18;90.88;One-Year;Fiber Optic;1635.84;1;0
+777;37;Male;7;83.48;Month-to-Month;DSL;584.36;1;1
+778;42;Female;6;84.28;Month-to-Month;Fiber Optic;505.68;1;1
+779;44;Female;18;91.43;Two-Year;Fiber Optic;16.457.400.000.000.000;1;0
+780;51;Female;40;81.78;One-Year;DSL;3271.2;1;0
+781;46;Male;58;68.62;One-Year;Fiber Optic;3979.96;1;0
+782;31;Male;2;54.83;Month-to-Month;Fiber Optic;109.66;1;1
+783;48;Female;3;99.17;Month-to-Month;Fiber Optic;297.51;1;1
+784;51;Female;57;50.36;Month-to-Month;Fiber Optic;2870.52;0;1
+785;50;Male;26;92.31;Month-to-Month;Fiber Optic;2400.06;1;1
+786;55;Male;42;51.0;Month-to-Month;None;2142.0;0;1
+787;53;Male;4;86.28;Two-Year;Fiber Optic;345.12;1;1
+788;49;Female;17;97.24;Month-to-Month;DSL;1653.08;1;1
+789;44;Female;24;49.68;Month-to-Month;DSL;1192.32;1;1
+790;28;Female;22;35.39;One-Year;Fiber Optic;778.58;1;0
+791;49;Male;10;41.79;One-Year;None;417.9;0;1
+792;47;Female;0;84.54;Month-to-Month;DSL;0.0;1;1
+793;47;Female;17;106.45;One-Year;None;1809.65;0;1
+794;32;Male;5;34.05;Month-to-Month;DSL;170.25;1;1
+795;34;Female;11;96.07;Month-to-Month;Fiber Optic;1056.77;1;1
+796;55;Female;63;60.72;Month-to-Month;None;3825.36;0;1
+797;44;Male;10;73.07;Two-Year;Fiber Optic;7.306.999.999.999.990;1;1
+798;51;Female;36;113.6;Month-to-Month;Fiber Optic;4089.6;1;1
+799;45;Male;4;59.88;Month-to-Month;DSL;239.52;1;1
+800;45;Female;22;71.88;Month-to-Month;None;1581.36;0;1
+801;54;Female;75;31.23;Two-Year;DSL;2342.25;0;1
+802;39;Female;2;37.34;Month-to-Month;None;74.68;0;1
+803;45;Female;0;53.27;Month-to-Month;DSL;0.0;1;1
+804;40;Male;11;32.51;Month-to-Month;None;35.760.999.999.999.900;0;1
+805;40;Female;1;86.82;Month-to-Month;Fiber Optic;86.82;1;1
+806;41;Female;27;68.38;One-Year;None;18.462.599.999.999.900;0;1
+807;47;Male;49;79.33;One-Year;Fiber Optic;3887.17;0;1
+808;40;Female;11;45.72;Month-to-Month;None;50.291.999.999.999.900;0;1
+809;57;Female;5;56.63;Month-to-Month;DSL;28.315.000.000.000.000;1;1
+810;36;Male;11;89.74;Month-to-Month;DSL;987.14;1;1
+811;43;Female;25;116.88;Month-to-Month;Fiber Optic;2922.0;1;1
+812;40;Female;0;34.54;Month-to-Month;DSL;0.0;1;1
+813;59;Male;17;110.13;One-Year;DSL;1872.21;0;1
+814;46;Female;19;81.92;Two-Year;None;1556.48;0;1
+815;55;Male;20;80.75;Two-Year;None;1615.0;0;1
+816;30;Male;5;75.03;Two-Year;Fiber Optic;375.15;0;1
+817;47;Male;25;36.25;One-Year;None;906.25;0;1
+818;53;Female;1;38.09;One-Year;Fiber Optic;38.09;1;1
+819;45;Female;4;84.08;Month-to-Month;DSL;336.32;1;1
+820;55;Male;41;60.69;One-Year;None;2488.29;0;1
+821;39;Male;26;112.55;Month-to-Month;Fiber Optic;29.262.999.999.999.900;0;1
+822;59;Female;0;66.59;Month-to-Month;None;0.0;0;1
+823;67;Male;5;42.9;One-Year;DSL;214.5;1;1
+824;41;Female;4;94.32;Month-to-Month;Fiber Optic;377.28;1;1
+825;40;Female;6;56.4;Month-to-Month;DSL;338.4;0;1
+826;59;Female;5;77.29;Two-Year;DSL;38.645.000.000.000.000;1;1
+827;60;Female;1;92.8;Month-to-Month;DSL;92.8;1;1
+828;39;Male;12;111.02;Month-to-Month;None;1332.24;0;1
+829;40;Female;26;101.3;Two-Year;None;26.337.999.999.999.900;0;1
+830;42;Female;18;90.87;One-Year;None;1635.66;0;1
+831;31;Female;22;91.17;One-Year;Fiber Optic;2005.74;1;0
+832;35;Male;1;115.13;Month-to-Month;Fiber Optic;115.13;1;1
+833;34;Female;60;56.62;Month-to-Month;DSL;3397.2;1;1
+834;37;Male;36;30.1;Two-Year;DSL;10.836.000.000.000.000;0;1
+835;44;Male;32;54.48;One-Year;Fiber Optic;1743.36;1;0
+836;47;Male;34;49.61;One-Year;None;1686.74;0;1
+837;60;Female;53;89.57;Month-to-Month;Fiber Optic;4747.21;1;1
+838;35;Female;15;87.03;Month-to-Month;DSL;1305.45;1;1
+839;54;Female;4;83.41;Two-Year;DSL;333.64;1;1
+840;42;Female;19;31.46;Month-to-Month;DSL;597.74;0;1
+841;44;Male;27;95.59;One-Year;Fiber Optic;25.809.300.000.000.000;0;1
+842;51;Female;26;59.12;Month-to-Month;None;1537.12;0;1
+843;33;Male;14;89.86;One-Year;Fiber Optic;1258.04;1;0
+844;48;Female;1;80.09;Two-Year;None;80.09;0;1
+845;46;Female;9;60.85;One-Year;Fiber Optic;547.65;0;1
+846;49;Female;50;42.11;Month-to-Month;Fiber Optic;2105.5;1;1
+847;47;Female;17;38.5;One-Year;DSL;654.5;0;1
+848;69;Male;15;104.84;One-Year;None;15.726.000.000.000.000;0;1
+849;38;Male;6;112.66;Month-to-Month;None;675.96;0;1
+850;39;Female;9;88.48;Two-Year;DSL;796.32;0;1
+851;38;Male;45;39.31;One-Year;Fiber Optic;1768.95;0;1
+852;39;Male;21;66.18;Two-Year;Fiber Optic;13.897.800.000.000.000;1;0
+853;38;Female;30;95.6;One-Year;Fiber Optic;2868.0;1;0
+854;56;Female;12;100.18;Month-to-Month;None;1202.16;0;1
+855;59;Male;19;40.64;Month-to-Month;Fiber Optic;772.16;0;1
+856;39;Male;5;30.0;Month-to-Month;Fiber Optic;150.0;1;1
+857;36;Female;24;94.09;Two-Year;DSL;2258.16;0;1
+858;49;Female;11;62.09;One-Year;DSL;682.99;0;1
+859;39;Male;11;52.9;One-Year;DSL;581.9;1;1
+860;51;Male;20;31.16;Month-to-Month;DSL;623.2;0;1
+861;47;Male;55;78.63;Month-to-Month;None;4324.65;0;1
+862;29;Male;1;106.6;One-Year;None;106.6;0;1
+863;60;Male;34;116.19;Month-to-Month;DSL;3950.46;1;1
+864;62;Female;6;80.92;Month-to-Month;None;485.52;0;1
+865;38;Female;11;76.3;One-Year;DSL;839.3;0;1
+866;41;Female;0;37.66;Month-to-Month;Fiber Optic;0.0;1;1
+867;47;Male;7;79.4;Month-to-Month;DSL;5.558.000.000.000.000;1;1
+868;48;Female;13;64.2;Month-to-Month;Fiber Optic;834.6;1;1
+869;51;Male;1;84.64;Month-to-Month;DSL;84.64;0;1
+870;65;Female;13;64.99;Two-Year;Fiber Optic;8.448.699.999.999.990;1;0
+871;43;Female;52;51.63;Month-to-Month;Fiber Optic;2684.76;0;1
+872;37;Male;2;38.55;Month-to-Month;None;77.1;0;1
+873;31;Female;28;58.34;Month-to-Month;DSL;1633.52;1;1
+874;37;Male;10;38.7;One-Year;DSL;387.0;1;1
+875;44;Female;21;45.92;Month-to-Month;DSL;964.32;1;1
+876;62;Male;6;118.86;One-Year;Fiber Optic;713.16;0;1
+877;39;Male;3;69.97;Month-to-Month;DSL;209.91;1;1
+878;47;Female;3;77.87;Month-to-Month;None;233.61;0;1
+879;44;Male;1;108.63;Month-to-Month;Fiber Optic;108.63;1;1
+880;56;Female;4;119.6;Two-Year;Fiber Optic;478.4;1;1
+881;70;Male;21;82.44;Two-Year;Fiber Optic;1731.24;0;1
+882;39;Female;42;103.12;Month-to-Month;DSL;4331.04;0;1
+883;40;Female;33;59.42;One-Year;DSL;19.608.600.000.000.000;1;0
+884;55;Female;23;57.52;Two-Year;Fiber Optic;1322.96;1;0
+885;51;Male;2;66.24;Month-to-Month;Fiber Optic;132.48;1;1
+886;63;Male;6;90.53;Two-Year;DSL;5.431.800.000.000.000;1;1
+887;50;Male;7;91.4;Month-to-Month;DSL;6.398.000.000.000.000;0;1
+888;41;Male;5;58.37;Two-Year;None;29.184.999.999.999.900;0;1
+889;50;Female;14;41.99;One-Year;DSL;587.86;1;0
+890;56;Female;15;86.92;Two-Year;None;1303.8;0;1
+891;53;Female;8;41.55;One-Year;None;332.4;0;1
+892;50;Female;8;82.06;Month-to-Month;DSL;656.48;1;1
+893;55;Female;35;92.41;Two-Year;DSL;3234.35;1;0
+894;56;Female;31;93.06;Month-to-Month;DSL;2884.86;1;1
+895;58;Male;7;97.81;Month-to-Month;Fiber Optic;6.846.700.000.000.000;1;1
+896;51;Female;49;108.56;One-Year;Fiber Optic;53.194.400.000.000.000;1;1
+897;43;Female;61;75.0;One-Year;None;4575.0;0;1
+898;46;Female;7;95.72;Two-Year;None;670.04;0;1
+899;57;Male;8;85.73;Month-to-Month;Fiber Optic;685.84;0;1
+900;36;Male;14;46.8;One-Year;DSL;6.551.999.999.999.990;1;0
+901;48;Male;56;32.31;One-Year;DSL;18.093.600.000.000.000;1;0
+902;41;Female;41;55.61;Month-to-Month;None;22.800.099.999.999.900;0;1
+903;45;Female;2;69.87;Month-to-Month;DSL;139.74;0;1
+904;57;Male;9;85.54;Month-to-Month;DSL;769.86;0;1
+905;46;Female;16;106.5;Month-to-Month;None;1704.0;0;1
+906;45;Male;13;47.66;Two-Year;Fiber Optic;6.195.799.999.999.990;1;0
+907;31;Male;4;41.3;One-Year;None;165.2;0;1
+908;52;Male;39;116.71;One-Year;Fiber Optic;4551.69;1;1
+909;51;Female;22;39.72;Two-Year;DSL;8.738.399.999.999.990;0;1
+910;66;Female;36;73.06;Month-to-Month;None;2630.16;0;1
+911;41;Male;39;82.7;Two-Year;DSL;3225.3;1;0
+912;47;Female;27;78.72;Month-to-Month;Fiber Optic;2125.44;1;1
+913;47;Male;11;37.74;Two-Year;Fiber Optic;41.514.000.000.000.000;1;1
+914;60;Female;18;35.13;Month-to-Month;DSL;632.34;0;1
+915;44;Female;3;39.49;Two-Year;Fiber Optic;118.47;1;1
+916;47;Female;22;82.7;Month-to-Month;DSL;1819.4;1;1
+917;51;Male;3;78.99;Month-to-Month;Fiber Optic;23.696.999.999.999.900;1;1
+918;46;Female;23;51.04;One-Year;Fiber Optic;1173.92;1;0
+919;40;Female;5;87.4;Month-to-Month;None;437.0;0;1
+920;46;Male;2;103.81;One-Year;None;207.62;0;1
+921;55;Female;3;33.74;Month-to-Month;DSL;101.22;1;1
+922;34;Male;0;74.83;One-Year;Fiber Optic;0.0;0;1
+923;46;Female;25;92.04;Month-to-Month;Fiber Optic;2301.0;0;1
+924;37;Male;26;52.71;Month-to-Month;DSL;1370.46;0;1
+925;56;Female;14;57.7;Month-to-Month;None;8.078.000.000.000.000;0;1
+926;29;Female;3;85.23;Month-to-Month;None;255.69;0;1
+927;39;Male;1;110.81;Month-to-Month;DSL;110.81;1;1
+928;48;Male;0;102.89;Month-to-Month;Fiber Optic;0.0;1;1
+929;60;Male;3;82.48;Month-to-Month;DSL;247.44;0;1
+930;44;Male;44;95.72;Month-to-Month;Fiber Optic;4211.68;0;1
+931;39;Male;5;62.83;One-Year;DSL;314.15;0;1
+932;63;Female;8;87.69;Two-Year;None;701.52;0;1
+933;30;Male;2;71.96;Month-to-Month;None;143.92;0;1
+934;23;Male;5;47.09;One-Year;Fiber Optic;23.545.000.000.000.000;1;1
+935;49;Female;14;93.16;One-Year;Fiber Optic;1304.24;1;0
+936;39;Male;18;80.08;Month-to-Month;None;1441.44;0;1
+937;34;Female;5;62.28;One-Year;Fiber Optic;311.4;1;1
+938;52;Female;1;112.02;Month-to-Month;DSL;112.02;1;1
+939;47;Female;9;31.88;One-Year;Fiber Optic;286.92;1;1
+940;39;Female;5;58.42;Month-to-Month;None;292.1;0;1
+941;32;Female;4;35.12;One-Year;Fiber Optic;140.48;1;1
+942;53;Male;64;98.99;One-Year;Fiber Optic;6335.36;0;1
+943;51;Male;19;93.19;Month-to-Month;None;1770.61;0;1
+944;44;Male;16;59.82;Month-to-Month;None;957.12;0;1
+945;63;Female;10;90.81;Two-Year;None;908.1;0;1
+946;34;Male;11;65.63;Month-to-Month;DSL;721.93;0;1
+947;29;Female;15;98.06;One-Year;Fiber Optic;1470.9;1;0
+948;38;Female;23;70.88;Two-Year;None;16.302.399.999.999.900;0;1
+949;44;Female;24;67.11;One-Year;None;16.106.399.999.999.900;0;1
+950;47;Female;3;114.13;One-Year;Fiber Optic;342.39;1;1
+951;42;Male;13;52.58;One-Year;DSL;683.54;1;0
+952;48;Female;10;40.84;Two-Year;None;40.840.000.000.000.000;0;1
+953;32;Female;40;82.61;Month-to-Month;None;3304.4;0;1
+954;59;Male;19;117.24;Month-to-Month;DSL;2227.56;0;1
+955;44;Male;15;64.01;Month-to-Month;Fiber Optic;9.601.500.000.000.000;0;1
+956;56;Female;2;35.58;Two-Year;DSL;71.16;0;1
+957;48;Female;18;60.54;One-Year;Fiber Optic;1089.72;1;0
+958;49;Female;2;75.53;Month-to-Month;DSL;151.06;0;1
+959;50;Female;8;44.57;Two-Year;Fiber Optic;356.56;1;1
+960;49;Female;3;89.23;Month-to-Month;Fiber Optic;267.69;1;1
+961;51;Female;23;119.8;Month-to-Month;Fiber Optic;2755.4;1;1
+962;58;Male;4;70.66;One-Year;Fiber Optic;282.64;1;1
+963;46;Male;9;61.93;Month-to-Month;None;557.37;0;1
+964;52;Male;45;66.06;Two-Year;DSL;29.727.000.000.000.000;1;0
+965;44;Female;4;40.36;Month-to-Month;DSL;161.44;1;1
+966;59;Female;14;109.49;Two-Year;None;1532.86;0;1
+967;38;Female;10;67.33;One-Year;DSL;673.3;1;1
+968;63;Male;0;64.85;Month-to-Month;None;0.0;0;1
+969;44;Female;31;89.37;Two-Year;None;27.704.700.000.000.000;0;1
+970;30;Female;1;69.78;One-Year;Fiber Optic;69.78;1;1
+971;46;Female;12;88.34;Month-to-Month;None;1060.08;0;1
+972;38;Female;16;35.53;Month-to-Month;DSL;568.48;1;1
+973;53;Male;19;103.24;Two-Year;Fiber Optic;1961.56;1;1
+974;38;Female;23;114.65;Month-to-Month;Fiber Optic;26.369.500.000.000.000;1;1
+975;40;Male;5;88.39;Month-to-Month;Fiber Optic;441.95;1;1
+976;26;Male;0;115.91;Month-to-Month;None;0.0;0;1
+977;40;Female;25;43.63;Month-to-Month;DSL;1090.75;1;1
+978;20;Female;15;72.97;One-Year;Fiber Optic;1094.55;1;0
+979;29;Female;36;84.16;Month-to-Month;Fiber Optic;30.297.599.999.999.900;1;1
+980;52;Female;34;82.36;Month-to-Month;Fiber Optic;2800.24;0;1
+981;52;Female;37;66.13;Month-to-Month;DSL;2446.81;1;1
+982;49;Female;13;60.43;Month-to-Month;Fiber Optic;785.59;1;1
+983;35;Female;8;41.41;Two-Year;None;331.28;0;1
+984;44;Male;31;65.26;Month-to-Month;DSL;20.230.600.000.000.000;1;1
+985;44;Male;12;44.64;Two-Year;None;5.356.800.000.000.000;0;1
+986;33;Male;4;96.09;Month-to-Month;Fiber Optic;384.36;1;1
+987;60;Male;38;48.79;Month-to-Month;None;1854.02;0;1
+988;53;Male;42;35.27;Two-Year;None;14.813.400.000.000.000;0;1
+989;42;Male;12;79.71;Month-to-Month;DSL;956.52;1;1
+990;45;Male;1;83.57;One-Year;Fiber Optic;83.57;1;1
+991;47;Female;9;108.47;Two-Year;None;976.23;0;1
+992;24;Male;32;81.93;Month-to-Month;Fiber Optic;2621.76;1;1
+993;42;Female;46;61.09;Month-to-Month;None;28.101.400.000.000.000;0;1
+994;38;Male;4;102.27;One-Year;Fiber Optic;409.08;0;1
+995;34;Female;1;78.63;Month-to-Month;DSL;78.63;0;1
+996;42;Male;41;37.14;Month-to-Month;Fiber Optic;1522.74;1;1
+997;62;Male;9;80.93;Month-to-Month;None;7.283.700.000.000.000;0;1
+998;51;Female;15;111.72;Month-to-Month;Fiber Optic;1675.8;1;1
+999;39;Male;68;65.67;One-Year;None;4465.56;0;1
+1000;50;Male;1;56.67;Month-to-Month;None;56.67;0;1
