@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="styles.css">
+
+    <title>Sistema cadastro e previsão de rotatividade de clientes</title>
+    <link rel="icon" href="img/home_logo.jpeg" type="image/png">
+</head>
+
+<body>
+     <!-- Cabeçalho de informações do sistema -->
+    <header>
+        <div class="title">
+            <h2>Bem-Vindo ao sistema cadastro e previsão de rotatividade de clientes</h2>
+            <br>
+            <p>Descubra como manter seus clientes conectados! Nosso sistema avançado prevê a rotatividade de clientes de serviço de internet.</p>
+            <p>Preencha os campos abaixo com os dados do cliente e clique em “Prever Rotatividade” para obter insights valiosos e manter sua base de clientes fieis.</p>
+        </div>
+        <!-- <div class="banner">
+            <img src="img/home.jpeg">
+        </div> -->
+    </header>
+
+     <!-- Opções para adicionar um novo item -->
+     
+    <section class="newItem">
+        <p>
+            <input type="text" id="name" placeholder="Nome">
+        <input type="text" id="age" placeholder="Idade">
+
+        <select id="gender" name="gender">
+            <option value="" disabled selected>Genero</option>
+            <option value="1">Feminino</option>
+            <option value="2">Masculino</option>
+        </select>
+
+        <input type="text" id="tenure" placeholder="Duração em meses" oninput="calculateTotal()">
+        <input type="text" id="monthly_charges" placeholder="Valor cobrado" oninput="calculateTotal()">
+        </p>
+
+        <p>
+            <select id="contract_type" name="contract_type">
+                <option value="" disabled selected>Tipo de contrato</option>
+                <option value="1">Mês a mês</option>
+                <option value="2">Um ano</option>
+                <option value="3">Dois anos</option>
+            </select>
+    
+            <select id="internetService" name="internetService">
+                <option value="" disabled selected>Serviço</option>
+                <option value="1">DSL</option>
+                <option value="2">Fibra óptica</option>
+                <option value="3">Nenhum</option>
+            </select>
+    
+            <select name="tech_support" id="tech_support">
+                <option value="" disabled selected>Suporte</option>
+                <option value="1">Sim</option>
+                <option value="2">Não</option>
+            </select>
+    
+            <input type="text" id="total_charges" placeholder="Total cobrado" readonly>
+            <!-- <input type="text" id="churn" placeholder="Renovação" readonly> -->
+            
+        </p>
+        <p>
+            <span onclick="newItem()" class="addBtn">Prever Rotatividade</span>
+        </p>
+    </section>
+
+    <!-- Tabela com items existentes -->
+    <section class="items">
+        <table id="myTable">
+            <tr>
+                <th>Nome</th>
+                <th>Idade</th>
+                <th>Genero</th>
+                <th>Duração meses</th>
+                <th>Valor cobrado</th>
+                <th>Tipo de contrato</th>
+                <th>Serviço</th>
+                <th>Suporte</th>
+                <th>Total cobrado</th>
+                <th>Renovação</th>
+                <th><img src="https://cdn-icons-png.flaticon.com/512/126/126468.png" width="15" height="15"></th>
+            </tr>
+        </table>
+    </section>
+
+    <script src="scripts.js"></script>
+</body>
+
+</html>
+
+
